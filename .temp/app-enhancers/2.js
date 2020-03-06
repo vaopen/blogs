@@ -1,0 +1,1 @@
+export { default } from "E:\\vaopen\\blog\\node_modules\\@vuepress-reco\\vuepress-plugin-pagation\\bin\\enhanceAppFile.js"

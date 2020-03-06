@@ -1,0 +1,1 @@
+export { default } from "E:\\vaopen\\blog\\node_modules\\vuepress-plugin-ribbon\\bin\\enhanceAppFile.js"

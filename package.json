@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.1.0",
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "husky": "^3.0.9",
+    "markdown-it": "^10.0.0",
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-task-lists": "^2.1.1",
+    "markdown-it-vuepress-code-snippet-enhanced": "^1.0.1",
+    "prettier": "1.19.1",
+    "pretty-quick": "^2.0.1",
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-clean-urls": "^1.1.1",
+    "vuepress-plugin-cursor-effects": "^0.0.4",
+    "vuepress-plugin-dynamic-title": "^0.0.5",
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-go-top": "^0.0.2",
+    "vuepress-plugin-ribbon": "^1.0.0",
+    "vuepress-theme-reco": "^1.1.4"
+  },
+  "description": "blacklisten的个人blog"
+}
