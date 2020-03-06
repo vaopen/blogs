@@ -15,7 +15,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f https://github.com/vaopen/blog.git master:gh-pages
+git push -f https://github.com/vaopen/blogs.git master:gh-pages
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages

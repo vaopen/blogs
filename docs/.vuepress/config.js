@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/blogs/',
   title: "vaopen'blog",
   description: "不能因理想遥远而放弃追求 不能因现实复杂而放弃梦想",
   evergreen: true,
